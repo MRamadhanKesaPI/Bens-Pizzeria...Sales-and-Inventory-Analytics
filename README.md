@@ -39,19 +39,19 @@ These final datasets were created by generating views in PostgreSQL. The steps c
 
 ## Insights
 #### 1. Top-Selling Items & Categories:  
-   - Pizza is the highest-grossing category, dominating sales compared to sides, beverages, and desserts.  
-   - Chicken wings and Dr. Pepper have strong sales, which might be surprising beside the pizza items. 
+   - **Pizza** is the highest-grossing category, dominating sales compared to sides, beverages, and desserts.  
+   - **Chicken wings** and **Dr. Pepper** also have strong sales, which may be surprising given pizza’s dominance. 
 
 #### 2. Revenue & Order Trends:  
-   - Peak sales occur during lunch and evening hours.  
-   - There is a fluctuation in order volume throughout the day, highlighting opportunities for targeted promotions.  
+   - **Peak sales** occur during **lunch** and **evening** hours.  
+   - **Order volume** fluctuates throughout the day, highlighting opportunities for **targeted promotions**.  
 
 #### 3. Delivery vs. Pickup Distribution: 
-   - Delivery accounts for *73.07%* of total orders, while pickup represents *26.93%*, reinforcing the need to optimize delivery logistics.  
+   - **Delivery** accounts for **73.07%** of total orders, while **pickup** represents **26.93%**, emphasizing the need to optimize **delivery logistics**. 
 
 #### 4. Inventory Stock & Management:  
-   - Some ingredients, such as Dr. Pepper and Pepsi, have critically low stock levels (<25%).  
-   - Pizza dough, Mozarella, and key pizza toppings have moderate stock depletion, requiring restocking strategies.  
+   - Some beverages, such as **Dr. Pepper** and **Pepsi**, have critically low stock levels (<25%).  
+   - **Pizza dough**, **mozzarella**, and **key pizza toppings** show moderate stock depletion, requiring **restocking strategies**. 
 
 ---
 Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [Ben's Pizzeria.pbix](https://github.com/MRamadhanKesaPI/Bens-Pizzeria...Order-Activity-and-Inventory-Management/blob/main/Ben's%20Pizzeria.pbix)
@@ -63,17 +63,22 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 ---
 
 ## Recommendations
-#### 1. Enhance Inventory Management:  
-   - Increase stock for high-demand items (e.g., cheese, pizza dough) to prevent shortages.  
-   - Reduce procurement for underperforming beverages and sides.  
+#### 1. Top-Selling Items & Categories:  
+   - **Highlight High Performers**:Highlight pizza, chicken wings, and Dr. Pepper in marketing and bundle deals to maximize revenue.  
+   - **Add Variety**: Introduce new pizza flavors or wing sauces to keep customers interested.
 
-#### 2. Optimize Sales Strategies:  
-   - Focus on marketing top-selling items to maximize revenue.  
-   - Offer promotions during low-order periods to balance sales.  
+#### 2. Revenue & Order Trends:  
+   - **Boost Slow Periods**: Offer discounts or combos during off-peak times to increase sales. 
+   - **Manage Rush Hours**: Ensure enough staff and stock during lunch and evening peaks to handle demand efficiently.
+     
+#### 3. Delivery vs. Pickup Distribution:  
+   - **Streamline Delivery**: Improve routing, packaging, and staff training to prepare delivery orders as efficiently and quickly as possible. 
+   - **Encourage Pickup**: Offer small incentives (like discounts or loyalty points) to reduce delivery load.
 
-#### 3. Improve Delivery Operations:  
-   - Since delivery dominates, ensure efficient routing and packaging for freshness.  
-   - Partner with delivery services to expand reach beyond Houston.  
+#### 4. Inventory Stock & Management:  
+   - **Monitor Critical Stock**: Regularly monitor inventory levels to prevent them from dropping below 25%
+   - **Restock Key Ingredients**: Keep enough pizza dough, mozzarella, and toppings, adjusting orders based on trends.
+   - **Reduce Waste**: Identify slow-selling items and lower their stock levels to avoid overordering.
 
 ---
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
