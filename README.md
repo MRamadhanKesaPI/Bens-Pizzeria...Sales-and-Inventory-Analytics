@@ -28,7 +28,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
   
-- A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
+- A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 ## Data Structure
 The PhoneNow database used in this project consists of three tables: Customer Churn, Service Type, and Bundle, with a total of 41,244 rows of data.
