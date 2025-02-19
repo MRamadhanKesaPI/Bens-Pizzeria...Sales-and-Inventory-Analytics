@@ -10,12 +10,16 @@
 - [**Recommendations**](#recommendations)
 
 ## Project Background
-Ben's Pizzeria, a new and small pizzeria, focuses only on delivery or pickup. Based in Houston, it has already delivered to customers in cities like Austin, Dallas, and El Paso. As the owner, Ben is looking for opportunities to help the pizzeria grow in the long term by focusing solely on delivery. With hopes for future growth, Ben wants to analyze the sales patterns of the pizzeria. 
+Ben’s Pizzeria is a small, newly established pizzeria specializing in delivery and pickup. Based in Houston, it has already served customers in Austin, Dallas, and El Paso. With a focus on long-term growth, the business aims to optimize sales and improve inventory management. 
 
-He also wants to manage the inventory better by tracking underperforming products and adding more ingredients for popular items. To address these challenges, Ben's Pizzeria has provided two months of orders and inventory data to uncover insights into recent trends for optimizing sales and inventory management.
+Key objectives include identifying outperforming products, ensuring sufficient stock for popular items, and refining overall sales strategies. To support these efforts, Ben’s Pizzeria has provided two months of orders and inventory data to uncover insights into recent trends and inform data-driven decisions.
 
-### Purpose of the Analytics Team:
-The analytics team will focus on helping Ben's Pizzeria gain deeper insights into ....... The goals are to:
+### Purpose of the Analysis:
+The goal of this analysis is to help Ben’s Pizzeria make data-driven decisions to improve sales and inventory management. The goals are to:
+
+- Analyze sales trends and customer ordering patterns to maximize revenue opportunities.
+- Provide actionable recommendations to improve delivery efficiency and enhance customer experience.
+- Identify best-selling and underperforming items to optimize inventory and reduce waste.
 
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
@@ -26,14 +30,14 @@ To make the analysis and insights easy to explore, the following resources are a
   
 - A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
-#### *Data Structure*
+## Data Structure
 The PhoneNow database used in this project consists of three tables: Customer Churn, Service Type, and Bundle, with a total of 41,244 rows of data.
 
 ![Relationships PWC](https://github.com/user-attachments/assets/5aa5554e-ae2a-4afe-a194-c34d973793ba)
 
 These final datasets were created through the process of creating view ini PostgreSQL, which can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process_for_PhoneNow...Customer-Churn/).
 
-#### *Insights*
+## Insights
 #### 1. Top-Selling Items & Categories:  
    - Pizza is the highest-grossing category, dominating sales compared to sides, beverages, and desserts.  
    - Chicken wings and Dr. Pepper have strong sales, which might be surprising beside the pizza items. 
