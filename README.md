@@ -60,6 +60,7 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 
 ![Ben's Pizzeria 2](https://github.com/user-attachments/assets/b022d0f8-ca50-48d1-a2c2-b10d474b5b2e)
 
+---
 
 ## Recommendations
 #### 1. Enhance Inventory Management:  
