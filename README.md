@@ -31,11 +31,11 @@ To make the analysis and insights easy to explore, the following resources are a
 - A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [Ben's Pizzeria.pbix](https://github.com/MRamadhanKesaPI/Bens-Pizzeria...Order-Activity-and-Inventory-Management/blob/main/Ben's%20Pizzeria.pbix)
 
 ## Data Structure
-The PhoneNow database used in this project consists of four tables: Customer Churn, Service Type, Bundle, and Customer Churn Measures, with a total of 41,244 rows of data.
+The Ben's Pizzeria datasets used in this project consist of four tables. Three come from PostgreSQL (Order Activity, Inventory Management 1, and Inventory Management 2), and one is a DAX measure table (Ben's Pizzeria Measures).
 
 ![Relationships Ben's](https://github.com/user-attachments/assets/655cd5df-ed7e-4dae-8330-2ca4e81a1e1c)
 
-These final datasets were created through the process of creating view in PostgreSQL, which can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
+These final datasets were created by generating views in PostgreSQL. The steps can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
 
 ## Insights
 #### 1. Top-Selling Items & Categories:  
