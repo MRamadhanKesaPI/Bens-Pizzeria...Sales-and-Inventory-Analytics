@@ -24,18 +24,18 @@ The goal of this analysis is to help Ben’s Pizzeria make data-driven decisions
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
+- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
 
 - The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
   
 - A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 ## Data Structure
-The PhoneNow database used in this project consists of three tables: Customer Churn, Service Type, and Bundle, with a total of 41,244 rows of data.
+The PhoneNow database used in this project consists of four tables: Customer Churn, Service Type, Bundle, and Customer Churn Measures, with a total of 41,244 rows of data.
 
-![Relationships PWC](https://github.com/user-attachments/assets/5aa5554e-ae2a-4afe-a194-c34d973793ba)
+![Relationships Ben's](https://github.com/user-attachments/assets/655cd5df-ed7e-4dae-8330-2ca4e81a1e1c)
 
-These final datasets were created through the process of creating view ini PostgreSQL, which can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process_for_PhoneNow...Customer-Churn/).
+These final datasets were created through the process of creating view in PostgreSQL, which can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Order-Activity-and-Inventory-Management/).
 
 ## Insights
 #### 1. Top-Selling Items & Categories:  
