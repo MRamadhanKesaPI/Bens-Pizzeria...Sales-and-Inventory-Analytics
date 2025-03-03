@@ -24,7 +24,7 @@ The goal of this analysis is to help Ben’s Pizzeria make data-driven decisions
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/).
+- The SQL queries with PostgreSQL for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/).
 
 - The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/).
   
