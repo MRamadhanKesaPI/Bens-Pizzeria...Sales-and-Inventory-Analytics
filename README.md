@@ -28,7 +28,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes_for_Bens-Pizzeria...Sales-and-Inventory-Analytics/).
   
-- A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [Ben's Pizzeria.pbix](https://github.com/MRamadhanKesaPI/Bens-Pizzeria...Order-Activity-and-Inventory-Management/blob/main/Ben's%20Pizzeria.pbix)
+- A Power BI dashboard can be downloaded here: [Ben's Pizzeria Sales and Inventory Analytics.pdf](https://github.com/user-attachments/files/19202509/Ben.s.Pizzeria.Sales.and.Inventory.Analytics.pdf) or [Ben's Pizzeria Sales and Inventory Analytics.pbix](https://github.com/MRamadhanKesaPI/Bens-Pizzeria...Sales-and-Inventory-Analytics/blob/main/Ben's%20Pizzeria%20Sales%20and%20Inventoy%20Analytics.pbix)
 
 ## Data Structure
 The Ben's Pizzeria datasets used in this project consist of four tables. Three come from PostgreSQL (Order Activity, Inventory Management 1, and Inventory Management 2), and one is a DAX measure table (Ben's Pizzeria Measures).
