@@ -54,7 +54,7 @@ These final datasets were created by generating views in PostgreSQL. The steps c
    - **Pizza dough**, **mozzarella**, and **key pizza toppings** show moderate stock depletion, requiring **restocking strategies**. 
 
 ---
-Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [Ben's Pizzeria.pbix](https://github.com/MRamadhanKesaPI/Bens-Pizzeria...Order-Activity-and-Inventory-Management/blob/main/Ben's%20Pizzeria.pbix)
+Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [Ben's Pizzeria.pdf](https://github.com/user-attachments/files/18859091/Ben.s.Pizzeria.pdf) or [Ben's Pizzeria.pbix](https://github.com/MRamadhanKesaPI/Bens-Pizzeria...Sales-and-Inventory-Analytics/blob/main/Ben's%20Pizzeria%20Sales%20and%20Inventoy%20Analytics.pbix)
 
 ![Ben's Pizzeria 1](https://github.com/user-attachments/assets/8318a2dc-8c0b-49c6-b0b3-4e634f51ebe7)
 
